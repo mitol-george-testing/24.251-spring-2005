@@ -1,0 +1,31 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Philosophy of Language"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "bc92b7da-153d-358f-fd28-6f9612a15143"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Philosophy of Language",
+  "course_description": "In this introductory course on the philosophy of language, we examine views on the nature of meaning, reference, truth, and their relationships. Other topics may include relationships between language and logic, language and knowledge, language and reality, language and acts performed through its use. No knowledge of logic or linguistics presupposed.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.251",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
